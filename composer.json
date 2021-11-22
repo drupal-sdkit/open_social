@@ -139,7 +139,7 @@
         "drupal/config_update": "1.7",
         "drupal/crop": "2.1.0",
         "drupal/csv_serialization": "2.0",
-        "drupal/data_policy": "1.0-rc3",
+        "drupal/data_policy": "1.2.0",
         "drupal/devel": "2.1",
         "drupal/dynamic_entity_reference": "1.12",
         "drupal/editor_advanced_link": "1.9",
