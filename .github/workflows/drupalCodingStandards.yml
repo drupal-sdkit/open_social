@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checks out to current workspace.
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       # Ensures to run composer install, also makes sure we have impact on the version of PHP / composer as we
       # need to define php version as per https://github.com/actions/virtual-environments/issues/1816
       # ubuntu-latest uses php 8.0 by default so checks will fail.
